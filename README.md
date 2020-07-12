@@ -27,6 +27,10 @@ sudo apt-get install nano
 ```
 sudo apt-get install socket
 ```
+## Serial
+```
+sudo apt-get install python-serial python3-serial
+```
 ## PyQT5
 ```
 sudo apt-get install qttools5-dev-tools
