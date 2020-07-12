@@ -33,7 +33,6 @@ sudo apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-t
 pip3 install pygame
 ```
 
-
 ------------------
 ##### References
 <sub>[1] https://jkjung-avt.github.io/setting-up-nano/</sub> 
