@@ -27,6 +27,12 @@ sudo apt-get install nano
 ```
 sudo apt-get install socket
 ```
+## PyQT5
+```
+sudo apt-get install qttools5-dev-tools
+sudo apt-get install python3-pyqt5
+sudo apt-get install pyqt5-dev-tools
+```
 ## Pygame
 ```
 sudo apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev   libsdl1.2-dev libsmpeg-dev python-numpy subversion libportmidi-dev ffmpeg libswscale-dev libavformat-dev libavcodec-dev
