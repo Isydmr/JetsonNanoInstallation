@@ -46,6 +46,8 @@ pip3 install pygame
 ```
 sudo -H pip install -U jetson-stats
 ```
+## Conda
+https://sahilramani.com/2020/10/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano/
 
 REBOOT!
 ------------------
