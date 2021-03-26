@@ -48,7 +48,10 @@ sudo -H pip install -U jetson-stats
 ```
 ## Conda
 https://sahilramani.com/2020/10/how-to-setup-python3-and-jupyter-notebook-on-jetson-nano/
-
+## PortAudio
+```
+sudo apt-get install portaudio19-dev python-pyaudio python3-pyaudio
+```
 REBOOT!
 ------------------
 ##### References
