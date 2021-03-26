@@ -52,6 +52,9 @@ https://sahilramani.com/2020/10/how-to-setup-python3-and-jupyter-notebook-on-jet
 ```
 sudo apt-get install portaudio19-dev python-pyaudio python3-pyaudio
 ```
+## VOSK-Api
+pip install https://github.com/alphacep/vosk-api/releases/download/0.3.21/vosk-0.3.21-py3-none-linux_aarch64.whl
+
 REBOOT!
 ------------------
 ##### References
